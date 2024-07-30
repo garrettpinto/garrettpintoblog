@@ -1,1 +1,1 @@
-Personal blog
+www.garrettpinto.github.io
