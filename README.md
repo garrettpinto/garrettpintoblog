@@ -1,1 +1,1 @@
-www.garrettpinto.github.io
+https://garrettpinto.github.io
