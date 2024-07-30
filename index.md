@@ -1,5 +1,3 @@
 ---
-title: garp
+title: Personal blog
 ---
-
-## Title
