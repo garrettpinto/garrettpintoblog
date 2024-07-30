@@ -1,3 +1,3 @@
 ---
-title: www.garrettpinto.github.io
+title: Blog
 ---
